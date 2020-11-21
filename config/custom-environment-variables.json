@@ -1,0 +1,4 @@
+{
+    // here is the secret key
+    "jwtPrivateKey":"demo_jwtPrivateKey"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Express js -- development",
+  "companyName": "Pivot Access",
+  "dbConfig": {
+    "name": "db-dev",
+    "username": "root",
+    "host": "dev-db-host"
+  }
+}

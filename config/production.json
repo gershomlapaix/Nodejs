@@ -1,0 +1,9 @@
+{
+  "name": "Express js -- production",
+  "companyName": "Irembo",
+  "dbConfig": {
+    "name": "db-prod",
+    "username": "prod-admin",
+    "host": "prod-db-host"
+  }
+}
